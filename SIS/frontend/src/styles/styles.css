@@ -1,0 +1,148 @@
+.background-image {
+    background-image: url('../images/img-1.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust height as needed */
+  }
+  
+  .animated-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .animated-button:hover {
+    background-color: #b34500;
+  }
+  
+  .student-dash{
+    background-image: url('../images/img-2.avif'); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Adjust height as needed */
+  }
+
+  .reg-student{
+    background-image: url('../images/img-3.jpeg'); 
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+    margin: -78px 0 0 0;
+  }
+
+  .reg-student-form{
+    margin: 40% -400px 0 60%;
+  }
+
+  .input-hover:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.log-student{
+    background-image: url('../images/img-5.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: -78px 0 0 0;
+}
+
+.log-student-form{
+    margin: 50% -400px 0 80%;
+  }
+
+.log-admin{
+    background-image: url('../images/img-4.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: -78px 0 0 0;
+}
+
+.log-admin-form{
+    margin: 50% -400px 0 80%;
+  }
+
+.reg-admin{
+ background-image: url('../images/img-6.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+    margin: -78px 0 0 0;
+}
+.reg-admin-form{
+    margin: 70% -400px 0 90%;
+  }
+.student-details{
+    background-image: url('../images/img-7.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+    margin: -25px 0 0 0;
+}
+.table-no-bg {
+    background-color: transparent !important;
+  } 
+
+.leave-student{
+    background-image: url('../images/img-7.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+    margin: -78px 0 0 0;
+}
+
+.student-mydetails{
+    background-image: url('../images/img-7.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+    margin: -9px 0 0 0;  
+}
+
+.mark-admin{
+    background-image: url('../images/img-7.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+    margin: -50px 0 0 0; 
+}
+
+.label-mark{
+max-width: 70%;
+}
+
+.student-mark{
+  background-image: url('../images/img-7.jpg'); 
+  background-size: cover;
+  background-position: center;
+  height: 110vh;
+  margin: -1px 0 0 0; 
+}
+
+.leave-admin{
+    background-image: url('../images/img-7.jpg'); 
+    background-size: cover;
+    background-position: center;
+    height: 110vh;
+    margin: -15px 0 0 0; 
+}
+
+.admin-ticket{
+  background-image: url('../images/img-7.jpg'); 
+  background-size: cover;
+  background-position: center;
+  height: 110vh;
+  margin: -1px 0 0 0;
+}
+
+.admin-dash{
+  background-image: url('../images/img-8.jpg'); 
+  background-size: cover;
+  background-position: center;
+  height: 90vh;
+  margin: -1px 0 0 0;
+}
